@@ -54,16 +54,16 @@ Complete backend solution for pet products marketplace with comprehensive sales 
 ---
 
 ### [Multi-Agent Web System](https://github.com/andreyques41/multi-agent-web-system)
-**AI-Powered Web Development Automation**
+**AI-Powered Web Development Automation** (🔄 In Development)
 
-CrewAI-based multi-agent system that orchestrates specialized AI agents to generate complete web projects.
+CrewAI-based multi-agent system that orchestrates specialized AI agents to generate complete web projects. Demonstrates advanced prompt engineering, agent orchestration, and LLM integration.
 
 | Aspect | Details |
 |--------|---------|
 | **Stack** | Python, CrewAI, GitHub Models API, OpenAI-compatible endpoints |
 | **Agents** | Business Analyst, Backend/Frontend Developers, QA, DevOps, PM |
-| **Output** | Full project scaffolding with docs, backend, frontend, tests, deployment |
-| **Innovation** | Token management, context optimization, modular agent architecture |
+| **Status** | Core orchestration & task automation fully functional; advanced features in progress |
+| **Innovation** | Token management, context optimization, multi-model LLM support |
 
 ---
 
