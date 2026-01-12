@@ -6,20 +6,10 @@
 
 ## About Me
 
-Software Engineer with **6+ years of industry experience at Intel Corporation**, specializing in automation systems, data pipelines, and validation frameworks for enterprise-scale server products. I bring a unique combination of production-level engineering experience and structured full-stack development training.
+Lead Product Development Engineer @ Intel | Software, Automation & AI | Costa Rica 🇨🇷
+Senior engineer with 6+ years of production experience at Intel, building automation systems, data pipelines, and validation platforms for large-scale server products. Strong background in Python, C#, Linux-based systems, and AI-assisted engineering, with hands-on ownership of production code and technical leadership.
 
-### Professional Background
-
-**Intel Corporation** (2018–2024)
-- Designed and maintained automation frameworks for server validation teams
-- Built data pipelines processing millions of test results across distributed systems
-- Owned production Python and C# repositories with CI/CD integration
-- Led cross-functional initiatives improving test coverage by 40%
-
-**Lifter Software Engineering Program** (Costa Rica, 2024–2025)
-- Intensive full-stack engineering curriculum covering backend, frontend, and system design
-- Built production-quality applications with layered architecture and security best practices
-- Developed expertise in AI-assisted development workflows and prompt engineering
+Currently applying the same production-level standards to full-stack software systems, combining backend architecture, modern web technologies, and responsible AI-assisted development.
 
 ---
 
