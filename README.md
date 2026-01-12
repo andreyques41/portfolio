@@ -1,125 +1,93 @@
-# Professional Portfolio
+# Portfolio
 
-**[View Portfolio Website →](https://andreyques41.github.io/portfolio)**
+**Andrey Quesada | Software Engineer**
 
-[![Status](https://img.shields.io/badge/Status-Active-blue.svg)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andrey-quesada-mora/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/andreyques41)
+Full-Stack Development & AI Workflows
+
+---
 
 ## About
 
-Lead Product Development Engineer @ Intel with 6+ years building automation systems, validation pipelines, and production software. Strong background in Python, C#, Linux-based systems, and AI-assisted engineering, with hands-on ownership of production code and technical leadership.
+Software engineer focused on **Full-Stack Development with AI Workflows**. Recently completed intensive Full-Stack program (Lifter, 2024-2025), building production-quality applications from scratch. 6+ years prior experience at Intel building automation systems for silicon validation at global scale.
 
-Currently expanding into full-stack development with production-grade engineering standards and responsible AI-assisted workflows.
+**Current Focus**: Full-stack applications (frontend + backend), AI-powered workflows, RESTful APIs, scalable architectures.
 
 ---
 
-## 🚀 Featured Projects
+## Recent Work (2024-2025)
+
+Built complete applications demonstrating production-grade engineering:
 
 ### [CaterPro](https://github.com/andreyques41/caterpro)
-Full-stack catering platform with Flask, PostgreSQL, Redis & Vanilla JS | 60 endpoints, 85% test coverage
+Full-stack catering management platform with role-based access, caching, and modular architecture.
 
-### [Pet E-Commerce API](https://github.com/andreyques41/pet-ecommerce-api)
-RESTful e-commerce backend with 42 endpoints, 806 tests, comprehensive validation layers
+**Stack**: Flask, PostgreSQL, Redis, JWT, Vanilla JS, Vite  
+**Details**: 60 endpoints, 497 tests (85% coverage), layered architecture, role-based access control
 
-### [Multi-Agent Web System](https://github.com/andreyques41/multi-agent-web-dev)
-AI-powered web development automation using CrewAI with 6 specialized agents
+---
+
+### [Multi-Agent Web Dev](https://github.com/andreyques41/multi-agent-web-dev)
+AI-powered development workflow using multi-agent orchestration for automated code generation.
+
+**Stack**: Python, CrewAI, LLMs  
+**Details**: 6 specialized agents (PM, BA, Backend/Frontend Dev, QA, DevOps), prompt engineering, strategic AI application
+
+---
+
+### [Pet E-commerce API](https://github.com/andreyques41/pet-ecommerce-api)
+RESTful API for e-commerce with authentication and layered architecture.
+
+**Stack**: Flask, PostgreSQL, JWT, SQLAlchemy  
+**Details**: 42 endpoints, 806 tests (78% coverage), multi-layer validation, comprehensive sales workflows
+
+---
 
 ### [Todo List App](https://github.com/andreyques41/todo-list-app)
-Modular task management application with clean MVC architecture and responsive UI
+Frontend application demonstrating modular JS architecture.
+
+**Stack**: HTML, CSS, Vanilla JS, Vite  
+**Details**: MVC pattern, component-based design, responsive UI
+
+---
 
 ### [Software Engineering Lab](https://github.com/andreyques41/software-engineering-lab)
-Curated programming exercises, algorithms, data structures & Finance Tracker GUI app
+Curated exercises covering data structures, algorithms, SQL, and Finance Tracker GUI application.
+
+**Stack**: Python, SQL, Data Structures, Testing  
+**Details**: Implementations from scratch, production-quality patterns
 
 ---
 
-## 💼 Experience
+## Technical Stack
 
-**Intel Corporation** (2018–Present)
-- Lead Product Development Engineer (Jul 2023–Present)
-- Automation systems, validation pipelines, AI-assisted development
-- Cut deployment time by 2×, reduced test execution by 30–40%
-
-**Full-Stack Development** (2024–2025)
-- Intensive training in backend, frontend, and system architecture
-- Production-quality applications with clean architecture patterns
+**Backend**: Python, Flask, PostgreSQL, Redis, SQLAlchemy, JWT  
+**Frontend**: HTML, CSS, JavaScript, Vite  
+**AI/ML**: LLMs, CrewAI, Prompt Engineering  
+**Architecture**: Layered design, Repository pattern, Service layers, MVC  
+**Testing**: pytest, Unit/Integration tests, Coverage analysis  
+**Tools**: Git, Docker, Linux, CI/CD
 
 ---
 
-## 🛠️ Tech Stack
+## Intel Experience (2018-2025)
 
-```
-Languages:    Python • C# • JavaScript • SQL
-Backend:      Flask • PostgreSQL • Redis • SQLAlchemy
-Frontend:     Vanilla JavaScript • HTML5 • CSS3 • Vite
-AI/ML:        CrewAI • Prompt engineering • LLM workflows
-DevOps:       Docker • GitHub Actions • Linux
-Testing:      pytest • Unit/Integration tests
-```
+6+ years building production automation systems:
+- **2×** reduction in critical validation timelines
+- **30-40%** test time reduction (hundreds of thousands USD saved)
+- **3×** faster data analysis through pipeline automation
+- Led teams of 3-5 engineers on production systems
+- Introduced AI-assisted workflows into production environments
 
-### Tools & Platforms
-```
-Version Control:  Git | GitHub | GitLab
-IDEs:             VS Code | JetBrains
-Databases:        PostgreSQL | Redis | SQLite
-Cloud:            Azure (exposure) | GitHub Models API
-```
+Technologies: Python, C#, SQL, Linux, data pipelines, test automation frameworks
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email**: andreyques41@gmail.com
-- **LinkedIn**: [linkedin.com/in/andrey-quesada-mora](https://www.linkedin.com/in/andrey-quesada-mora/)
+- **LinkedIn**: [linkedin.com/in/andrey-quesada-mora](https://linkedin.com/in/andrey-quesada-mora)
 - **GitHub**: [github.com/andreyques41](https://github.com/andreyques41)
-- **Location**: Costa Rica
 
 ---
 
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) for details.
-
----
-
-*Open to opportunities in Software Engineering, Backend Development, and AI/Automation roles.*
-
-### Tools & Platforms
-```
-Version Control:  Git | GitHub | GitLab
-IDEs:             VS Code | JetBrains
-Databases:        PostgreSQL | Redis | SQLite
-Cloud:            Azure (exposure) | GitHub Models API
-```
-
----
-
-## 📚 Learning Repository
-
-**[Software Engineering Lab](https://github.com/andreyques41/software-engineering-lab)**
-
-Curated collection of exercises and mini-projects covering:
-- Data structures & algorithms (stacks, queues, trees, sorting)
-- OOP fundamentals and design patterns
-- File I/O, CSV/JSON processing
-- SQL and database fundamentals
-- Frontend basics (HTML/CSS/JS)
-
----
-
-## 📫 Contact
-
-- **Email**: andreyques41@gmail.com
-- **LinkedIn**: [linkedin.com/in/andrey-quesada-mora](https://www.linkedin.com/in/andrey-quesada-mora/)
-- **GitHub**: [github.com/andreyques41](https://github.com/andreyques41)
-- **Location**: Costa Rica
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) for details.
-
----
-
-*Open to opportunities in Software Engineering, Backend Development, and AI/Automation roles.*
+**View Portfolio Website**: [andreyques41.github.io/portfolio](https://andreyques41.github.io/portfolio)
