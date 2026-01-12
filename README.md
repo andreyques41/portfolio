@@ -8,7 +8,9 @@
 
 ## About
 
-Lead Product Development Engineer @ Intel with 6+ years building automation systems, validation pipelines, and production software. Currently expanding into full-stack development with production-grade engineering standards.
+Lead Product Development Engineer @ Intel with 6+ years building automation systems, validation pipelines, and production software. Strong background in Python, C#, Linux-based systems, and AI-assisted engineering, with hands-on ownership of production code and technical leadership.
+
+Currently expanding into full-stack development with production-grade engineering standards and responsible AI-assisted workflows.
 
 ---
 
@@ -54,6 +56,33 @@ AI/ML:        CrewAI • Prompt engineering • LLM workflows
 DevOps:       Docker • GitHub Actions • Linux
 Testing:      pytest • Unit/Integration tests
 ```
+
+### Tools & Platforms
+```
+Version Control:  Git | GitHub | GitLab
+IDEs:             VS Code | JetBrains
+Databases:        PostgreSQL | Redis | SQLite
+Cloud:            Azure (exposure) | GitHub Models API
+```
+
+---
+
+## 📫 Contact
+
+- **Email**: andreyques41@gmail.com
+- **LinkedIn**: [linkedin.com/in/andrey-quesada-mora](https://www.linkedin.com/in/andrey-quesada-mora/)
+- **GitHub**: [github.com/andreyques41](https://github.com/andreyques41)
+- **Location**: Costa Rica
+
+---
+
+## 📄 License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+---
+
+*Open to opportunities in Software Engineering, Backend Development, and AI/Automation roles.*
 
 ### Tools & Platforms
 ```
