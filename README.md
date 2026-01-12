@@ -1,101 +1,58 @@
-# Andrey Quesada | Software Engineer
+# Professional Portfolio
+
+**[View Portfolio Website →](https://andreyques41.github.io/portfolio)**
 
 [![Status](https://img.shields.io/badge/Status-Active-blue.svg)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andrey-quesada-mora/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/andreyques41)
 
-## About Me
+## About
 
-Software Engineer with **6+ years of industry experience at Intel Corporation**, specializing in automation systems, data pipelines, and validation frameworks for enterprise-scale server products. I bring a unique combination of production-level engineering experience and structured full-stack development training.
-
-### Professional Background
-
-**Intel Corporation** (2018–2024)
-- Designed and maintained automation frameworks for server validation teams
-- Built data pipelines processing millions of test results across distributed systems
-- Owned production Python and C# repositories with CI/CD integration
-- Led cross-functional initiatives improving test coverage by 40%
-
-**Lifter Software Engineering Program** (Costa Rica, 2024–2025)
-- Intensive full-stack engineering curriculum covering backend, frontend, and system design
-- Built production-quality applications with layered architecture and security best practices
-- Developed expertise in AI-assisted development workflows and prompt engineering
+Lead Product Development Engineer @ Intel with 6+ years building automation systems, validation pipelines, and production software. Currently expanding into full-stack development with production-grade engineering standards.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [CaterPro](https://github.com/andreyques41/caterpro)
-**Full-Stack Catering Management Platform**
-
-Professional platform for managing catering services, menus, quotations, and client appointments.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python (Flask), PostgreSQL, Redis, Vanilla JS, Vite |
-| **Architecture** | Layered (Controller → Service → Repository), JWT Auth, Alembic migrations |
-| **Scale** | 10 modules, 60 endpoints, 296 tests (75% coverage) |
-| **Highlights** | Real-time role verification, quotation workflows, admin dashboards |
-
----
+Full-stack catering platform with Flask, PostgreSQL, Redis & Vanilla JS | 60 endpoints, 85% test coverage
 
 ### [Pet E-Commerce API](https://github.com/andreyques41/pet-ecommerce-api)
-**RESTful E-Commerce Backend**
+RESTful e-commerce backend with 42 endpoints, 806 tests, comprehensive validation layers
 
-Complete backend solution for pet products marketplace with comprehensive sales workflows.
+### [Multi-Agent Web System](https://github.com/andreyques41/multi-agent-web-dev)
+AI-powered web development automation using CrewAI with 6 specialized agents
 
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python (Flask), PostgreSQL, SQLAlchemy, Marshmallow, JWT |
-| **Architecture** | Routes → Controllers → Services → Repositories → Models |
-| **Endpoints** | 42 validated REST endpoints across 7 modules |
-| **Features** | Cart management, order lifecycle, invoicing, returns system |
+### [Todo List App](https://github.com/andreyques41/todo-list-app)
+Modular task management application with clean MVC architecture and responsive UI
 
----
-
-### [Multi-Agent Web System](https://github.com/andreyques41/multi-agent-web-system)
-**AI-Powered Web Development Automation** (🔄 In Development)
-
-CrewAI-based multi-agent system that orchestrates specialized AI agents to generate complete web projects. Demonstrates advanced prompt engineering, agent orchestration, and LLM integration.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python, CrewAI, GitHub Models API, OpenAI-compatible endpoints |
-| **Agents** | Business Analyst, Backend/Frontend Developers, QA, DevOps, PM |
-| **Status** | Core orchestration & task automation fully functional; advanced features in progress |
-| **Innovation** | Token management, context optimization, multi-model LLM support |
+### [Software Engineering Lab](https://github.com/andreyques41/software-engineering-lab)
+Curated programming exercises, algorithms, data structures & Finance Tracker GUI app
 
 ---
 
-### [Finance Tracker Desktop](https://github.com/andreyques41/finance-tracker)
-**Python GUI Financial Application**
+## 💼 Experience
 
-Desktop application for personal finance management with data persistence and visualization.
+**Intel Corporation** (2018–Present)
+- Lead Product Development Engineer (Jul 2023–Present)
+- Automation systems, validation pipelines, AI-assisted development
+- Cut deployment time by 2×, reduced test execution by 30–40%
 
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python 3.8+, FreeSimpleGUI, CSV data handling |
-| **Architecture** | OOP design with Movement/FinanceMonth classes |
-| **Features** | Income/expense tracking, category management, automatic save/load |
-| **Testing** | Unit tests with validation coverage |
+**Full-Stack Development** (2024–2025)
+- Intensive training in backend, frontend, and system architecture
+- Production-quality applications with clean architecture patterns
 
 ---
 
-## 💼 Technical Skills
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
 ```
-Backend:    Python (Flask, FastAPI) | C# | SQL | REST APIs
-Frontend:   JavaScript (ES6+) | HTML5 | CSS3 | Vite
-Data:       PostgreSQL | SQLAlchemy | Redis | CSV/JSON processing
-```
-
-### Engineering Practices
-```
-Architecture:   Layered design | Repository pattern | Service layers
-Testing:        pytest | Unit/Integration testing | Coverage analysis
-DevOps:         Docker | CI/CD (GitHub Actions) | Linux systems
-AI/ML:          CrewAI | Prompt engineering | AI-assisted development
+Languages:    Python • C# • JavaScript • SQL
+Backend:      Flask • PostgreSQL • Redis • SQLAlchemy
+Frontend:     Vanilla JavaScript • HTML5 • CSS3 • Vite
+AI/ML:        CrewAI • Prompt engineering • LLM workflows
+DevOps:       Docker • GitHub Actions • Linux
+Testing:      pytest • Unit/Integration tests
 ```
 
 ### Tools & Platforms
