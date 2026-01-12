@@ -1,7 +1,8 @@
-# Andy Duarte | Software Engineer
+# Andrey Quesada | Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR-GITHUB)
+[![Status](https://img.shields.io/badge/Status-Active-blue.svg)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andrey-quesada-mora/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/andreyques41)
 
 ## About Me
 
@@ -24,7 +25,7 @@ Software Engineer with **6+ years of industry experience at Intel Corporation**,
 
 ## 🚀 Featured Projects
 
-### [CaterPro](https://github.com/YOUR-GITHUB/caterpro)
+### [CaterPro](https://github.com/andreyques41/caterpro)
 **Full-Stack Catering Management Platform**
 
 Professional platform for managing catering services, menus, quotations, and client appointments.
@@ -38,7 +39,7 @@ Professional platform for managing catering services, menus, quotations, and cli
 
 ---
 
-### [Pet E-Commerce API](https://github.com/YOUR-GITHUB/pet-ecommerce-api)
+### [Pet E-Commerce API](https://github.com/andreyques41/pet-ecommerce-api)
 **RESTful E-Commerce Backend**
 
 Complete backend solution for pet products marketplace with comprehensive sales workflows.
@@ -52,7 +53,7 @@ Complete backend solution for pet products marketplace with comprehensive sales 
 
 ---
 
-### [Multi-Agent Web System](https://github.com/YOUR-GITHUB/multi-agent-web-system)
+### [Multi-Agent Web System](https://github.com/andreyques41/multi-agent-web-system)
 **AI-Powered Web Development Automation**
 
 CrewAI-based multi-agent system that orchestrates specialized AI agents to generate complete web projects.
@@ -66,7 +67,7 @@ CrewAI-based multi-agent system that orchestrates specialized AI agents to gener
 
 ---
 
-### [Finance Tracker Desktop](https://github.com/YOUR-GITHUB/finance-tracker-desktop)
+### [Finance Tracker Desktop](https://github.com/andreyques41/finance-tracker)
 **Python GUI Financial Application**
 
 Desktop application for personal finance management with data persistence and visualization.
@@ -109,7 +110,7 @@ Cloud:            Azure (exposure) | GitHub Models API
 
 ## 📚 Learning Repository
 
-**[Software Engineering Lab](https://github.com/YOUR-GITHUB/software-engineering-lab)**
+**[Software Engineering Lab](https://github.com/andreyques41/software-engineering-lab)**
 
 Curated collection of exercises and mini-projects covering:
 - Data structures & algorithms (stacks, queues, trees, sorting)
@@ -122,10 +123,16 @@ Curated collection of exercises and mini-projects covering:
 
 ## 📫 Contact
 
-- **Email**: your.email@domain.com
-- **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
-- **GitHub**: [github.com/YOUR-GITHUB](https://github.com/YOUR-GITHUB)
+- **Email**: andreyques41@gmail.com
+- **LinkedIn**: [linkedin.com/in/andrey-quesada-mora](https://www.linkedin.com/in/andrey-quesada-mora/)
+- **GitHub**: [github.com/andreyques41](https://github.com/andreyques41)
 - **Location**: Costa Rica
+
+---
+
+## 📄 License
+
+MIT License - See [LICENSE](LICENSE) for details.
 
 ---
 
