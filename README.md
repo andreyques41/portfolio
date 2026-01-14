@@ -73,9 +73,9 @@ Curated exercises covering data structures, algorithms, SQL, and Finance Tracker
 
 6+ years building production automation systems:
 - **2×** reduction in critical validation timelines
-- **30-40%** test time reduction (hundreds of thousands USD saved)
+- **30%** test time reduction (hundreds of thousands USD saved)
 - **3×** faster data analysis through pipeline automation
-- Led teams of 3-5 engineers on production systems
+- Led teams of 3-4 engineers on production systems
 - Introduced AI-assisted workflows into production environments
 
 Technologies: Python, C#, SQL, Linux, data pipelines, test automation frameworks
