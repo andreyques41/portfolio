@@ -8,13 +8,13 @@ Full-Stack Development & AI Workflows
 
 ## About
 
-Software engineer focused on **Full-Stack Development with AI Workflows**. Recently completed intensive Full-Stack program (Lifter, 2024-2025), building production-quality applications from scratch. 6+ years prior experience at Intel building automation systems for silicon validation at global scale.
+Software engineer focused on **Full-Stack Development with AI Workflows**. Recently completed intensive Full-Stack program (Lifter, 2025-2026), building production-quality applications from scratch. 6+ years prior experience at Intel building automation systems for silicon validation at global scale.
 
 **Current Focus**: Full-stack applications (frontend + backend), AI-powered workflows, RESTful APIs, scalable architectures.
 
 ---
 
-## Recent Work (2024-2025)
+## Recent Work (2025-2026)
 
 Built complete applications demonstrating production-grade engineering:
 
